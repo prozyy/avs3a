@@ -41,7 +41,7 @@ long long  VMF_GetTime()
     return lltime;
 }
 
-int main(int argc, char* argv[])
+int main_test(int argc, char* argv[])
 {
     static long frame = 0;
 
